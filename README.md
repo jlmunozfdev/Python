@@ -2,5 +2,5 @@
 
 Install virtual environment
 ```
-python -m ven ven
+python -m venv venv
 ```
